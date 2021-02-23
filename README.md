@@ -3,13 +3,13 @@
 Application made in Node.js
 
 Dependencies used:
-1.TypeScript
-2.Express
-3.Body-Parser
-4.Sequelize
-5.@types/node
-6.tslint
-7.node-postgres
+- TypeScript
+- Express
+- Body-Parser
+- Sequelize
+- @types/node
+- tslint
+- node-postgres
 
 To install the dependencies, run the command: 
 - npm install --save-dev
