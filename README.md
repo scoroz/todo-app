@@ -1,4 +1,4 @@
-# todo-app
+# todo-app by Matheus Scotini
 
 Application made in Node.js
 
