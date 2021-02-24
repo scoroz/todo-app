@@ -19,6 +19,3 @@ To transpile the files, run the command:
 
 To start the project, run:
 - npm start
-
-To define and run the Docker container in the background, run:
-- docker-compose up --build -d
